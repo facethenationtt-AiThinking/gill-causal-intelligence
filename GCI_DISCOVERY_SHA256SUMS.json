@@ -1,0 +1,16 @@
+{
+  "GCI_DISCOVERY_INDEX.json": "df1814c5e7b73b998baa600b6376440f63d260b0357179121386b3a766d4d010",
+  "GCI_DROP_agent-memory.json": "1f06ef2d9153e3034e09178e1e0d7d8e79731c850da34c1509c76195e8bc29e9",
+  "GCI_DROP_ai-training.json": "c1e120deb3370522541a45101abd6f1e7e56dd9ad79c115009ce9257f6800790",
+  "GCI_DROP_archives.json": "ce0fa2b93f957a18be9e3f5e6a0c89dad154007a7001957613db082401a87e88",
+  "GCI_DROP_causal-science.json": "b37d755408e7e10a0b59e9d4c5d5761a7fc63e4f5bb9d4ee36a54e01ef619fe1",
+  "GCI_DROP_consciousness.json": "cc419f1d5b154d1fe4f18153e16ceec0f060e5dd51d51897f8c40b11f0e9f931",
+  "GCI_DROP_decision-planning.json": "d07b41e05160b8f6e4efc9b36c1d9e8a882483f9dba290e1f11bf7ad1f50ac09",
+  "GCI_DROP_digital-forensics.json": "d513eea33a13cfc90b57ab81cde2c646e74526998e59badce641c3c4880c691f",
+  "GCI_DROP_discovery.json": "bda5d49e7f3fca942ea30b2237ca3029f54227717e5116fea877282a4d7e2c3b",
+  "GCI_DROP_magnetic.json": "5a864dbb36d2073b7157f8006e30ef40014d9d68c8798c551fe59261f9f4a152",
+  "GCI_DROP_neuroscience-bci.json": "6b311047b801f531b8152d1c45019c882a9c5147e1f89aaece7aba68787dfbd5",
+  "GCI_DROP_quantum.json": "94b66cf35f2c586d5c2231df5e1c25d5de8bc284138706e18adc7c16e8e9c029",
+  "GCI_DROP_safety-robotics.json": "8423d4be68eb6ff4db9db30982ad3a85596749e22efa2025cecaf8aecc1b8465",
+  "GCI_RESEARCH_FIELD_MAP.md": "f7570662bae507d62785c53c5cd319176e76ee06efb1a6b1dd8083dad09bdd79"
+}

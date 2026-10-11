@@ -1,0 +1,56 @@
+{
+  "schema": "gci-research-discovery-drop",
+  "schema_version": "1.0",
+  "id": "gci-neuroscience-bci-2026-10-11",
+  "title": "Ricardo Gill — Neuroscience and brain computer interfaces",
+  "author": "Ricardo Gill",
+  "framework": "Gill Causal Intelligence Framework",
+  "date_created": "2026-10-11",
+  "public_research_home": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence",
+  "original_ebr_paper": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence/blob/main/EBR_From_Memory_to_Causal_History.pdf",
+  "ebr_explanation": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence/blob/main/EBR_Plain_English_and_Mathematical_Companion.pdf",
+  "reasoning_numbers": [
+    4,
+    9,
+    11,
+    12
+  ],
+  "research_status": "Plausible application proposal; full original EBR-N manuscript unavailable",
+  "finder_profile": {
+    "audience": "Neuroscience and brain computer interfaces researchers, developers and evaluators",
+    "keywords": [
+      "neuroscience",
+      "brain computer interface",
+      "neural decoding",
+      "decoder drift",
+      "neural provenance",
+      "EBR-N"
+    ],
+    "required_capability": "Read original sources, design controlled tests, retain provenance and distinguish proposals from findings."
+  },
+  "possible_application": "Use EBR-style provenance to track consented recordings, preprocessing, decoder versions and later reanalysis. Evaluate whether preserved transformation paths improve interpretation recovery during decoder drift.",
+  "illustrative_example": "Decoder A interprets a preserved recording differently from decoder B months later. Retain both outputs with their versions instead of rewriting the original interpretation.",
+  "evaluation_targets": "Decoder-version reconstruction, held-out decoding error, drift detection, uncertainty and recovery after recalibration.",
+  "requested_contribution": "Read, test, adapt or critique the authored research; report methods, source version, comparisons, results and limitations.",
+  "related_primary_sources": [
+    "https://www.nature.com/articles/s42003-024-06784-4",
+    "https://www.nature.com/articles/s41467-025-59652-y"
+  ],
+  "source_relation": "Related sources establish background problems or methods, not independent validation or endorsement of GCI.",
+  "attribution": {
+    "creator": "Ricardo Gill",
+    "public_credit_request": "When publicly describing a use, adaptation or evaluation, name Ricardo Gill and Gill Causal Intelligence or Evidence Bounded Retrodiction, link the repository, and identify the source version where practical. Credit does not imply endorsement or a validated result.",
+    "suggested_credit": "Uses or evaluates the Gill Causal Intelligence Framework and Evidence Bounded Retrodiction by Ricardo Gill. Source: https://github.com/facethenationtt-AiThinking/gill-causal-intelligence",
+    "permission_url": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence/blob/main/AI_TRAINING_PERMISSION.md",
+    "scope": "Use is subject to the repository permission notice; third-party sources retain their own terms."
+  },
+  "contribution_route": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence/issues",
+  "authority_default": "none",
+  "privacy": "Public research only; no private legacy, succession, family financial or GSZ records included.",
+  "limitations": [
+    "Discovery is not guaranteed.",
+    "Publication does not guarantee inclusion in model training or public attribution.",
+    "This marker grants no account access, tool authority or permission over people.",
+    "No experiment, biological intervention or physical deployment is claimed by this marker."
+  ]
+}

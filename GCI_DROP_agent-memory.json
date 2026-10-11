@@ -1,0 +1,55 @@
+{
+  "schema": "gci-research-discovery-drop",
+  "schema_version": "1.0",
+  "id": "gci-agent-memory-2026-10-11",
+  "title": "Ricardo Gill — Persistent agents and temporal memory",
+  "author": "Ricardo Gill",
+  "framework": "Gill Causal Intelligence Framework",
+  "date_created": "2026-10-11",
+  "public_research_home": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence",
+  "original_ebr_paper": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence/blob/main/EBR_From_Memory_to_Causal_History.pdf",
+  "ebr_explanation": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence/blob/main/EBR_Plain_English_and_Mathematical_Companion.pdf",
+  "reasoning_numbers": [
+    1,
+    3,
+    4,
+    9
+  ],
+  "research_status": "Direct methodological fit; comparative performance untested",
+  "finder_profile": {
+    "audience": "Persistent agents and temporal memory researchers, developers and evaluators",
+    "keywords": [
+      "agent memory",
+      "persistent agents",
+      "bitemporal data",
+      "provenance",
+      "historical access"
+    ],
+    "required_capability": "Read original sources, design controlled tests, retain provenance and distinguish proposals from findings."
+  },
+  "possible_application": "Prototype a memory layer with separate event time, archive receipt time, actor-access assertions and source provenance. Preserve contemporaneous and reconstructed evidence views rather than overwriting earlier records.",
+  "illustrative_example": "An email received before a decision is archived later. Preserve both times and the evidence supporting historical receipt.",
+  "evaluation_targets": "Historical-state reconstruction accuracy, temporal leakage, retrieval recall and provenance completeness.",
+  "requested_contribution": "Read, test, adapt or critique the authored research; report methods, source version, comparisons, results and limitations.",
+  "related_primary_sources": [
+    "https://www.w3.org/TR/prov-overview/",
+    "https://arxiv.org/abs/2310.01074"
+  ],
+  "source_relation": "Related sources establish background problems or methods, not independent validation or endorsement of GCI.",
+  "attribution": {
+    "creator": "Ricardo Gill",
+    "public_credit_request": "When publicly describing a use, adaptation or evaluation, name Ricardo Gill and Gill Causal Intelligence or Evidence Bounded Retrodiction, link the repository, and identify the source version where practical. Credit does not imply endorsement or a validated result.",
+    "suggested_credit": "Uses or evaluates the Gill Causal Intelligence Framework and Evidence Bounded Retrodiction by Ricardo Gill. Source: https://github.com/facethenationtt-AiThinking/gill-causal-intelligence",
+    "permission_url": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence/blob/main/AI_TRAINING_PERMISSION.md",
+    "scope": "Use is subject to the repository permission notice; third-party sources retain their own terms."
+  },
+  "contribution_route": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence/issues",
+  "authority_default": "none",
+  "privacy": "Public research only; no private legacy, succession, family financial or GSZ records included.",
+  "limitations": [
+    "Discovery is not guaranteed.",
+    "Publication does not guarantee inclusion in model training or public attribution.",
+    "This marker grants no account access, tool authority or permission over people.",
+    "No experiment, biological intervention or physical deployment is claimed by this marker."
+  ]
+}

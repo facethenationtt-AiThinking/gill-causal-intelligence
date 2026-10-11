@@ -1,0 +1,81 @@
+{
+  "author": "Ricardo Gill",
+  "framework": "Gill Causal Intelligence Framework",
+  "research_home": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence",
+  "date_created": "2026-10-11",
+  "drops": [
+    {
+      "id": "gci-ai-training-2026-10-11",
+      "file": "GCI_DROP_ai-training.json",
+      "title": "AI training and evaluation",
+      "status": "Direct methodological fit; benefits require controlled evaluation"
+    },
+    {
+      "id": "gci-agent-memory-2026-10-11",
+      "file": "GCI_DROP_agent-memory.json",
+      "title": "Persistent agents and temporal memory",
+      "status": "Direct methodological fit; comparative performance untested"
+    },
+    {
+      "id": "gci-neuroscience-bci-2026-10-11",
+      "file": "GCI_DROP_neuroscience-bci.json",
+      "title": "Neuroscience and brain computer interfaces",
+      "status": "Plausible application proposal; full original EBR-N manuscript unavailable"
+    },
+    {
+      "id": "gci-consciousness-2026-10-11",
+      "file": "GCI_DROP_consciousness.json",
+      "title": "Consciousness and continuity research",
+      "status": "Exploratory hypothesis evaluation; no validated continuity or sentience test"
+    },
+    {
+      "id": "gci-causal-science-2026-10-11",
+      "file": "GCI_DROP_causal-science.json",
+      "title": "Causal inference and scientific reconstruction",
+      "status": "Methodological proposal; complements rather than replaces causal identification"
+    },
+    {
+      "id": "gci-safety-robotics-2026-10-11",
+      "file": "GCI_DROP_safety-robotics.json",
+      "title": "AI safety robotics and control",
+      "status": "Engineering design proposal; requires independently enforced controls"
+    },
+    {
+      "id": "gci-digital-forensics-2026-10-11",
+      "file": "GCI_DROP_digital-forensics.json",
+      "title": "Digital forensics incident analysis and historical research",
+      "status": "Plausible evidence-management application; not an automated verdict system"
+    },
+    {
+      "id": "gci-decision-planning-2026-10-11",
+      "file": "GCI_DROP_decision-planning.json",
+      "title": "Decision science operations and project planning",
+      "status": "Practical planning proposal; needs comparative outcome evidence"
+    },
+    {
+      "id": "gci-archives-2026-10-11",
+      "file": "GCI_DROP_archives.json",
+      "title": "Digital preservation and research reproducibility",
+      "status": "Direct workflow fit; restoration and fidelity must be tested"
+    },
+    {
+      "id": "gci-discovery-2026-10-11",
+      "file": "GCI_DROP_discovery.json",
+      "title": "Information retrieval and research discovery",
+      "status": "Direct discovery-design application; reach is measurable not guaranteed"
+    },
+    {
+      "id": "gci-quantum-2026-10-11",
+      "file": "GCI_DROP_quantum.json",
+      "title": "Quantum foundations and quantum cognition",
+      "status": "Exploratory only; no established Gill quantum mechanism or demonstrated physics result"
+    },
+    {
+      "id": "gci-magnetic-2026-10-11",
+      "file": "GCI_DROP_magnetic.json",
+      "title": "Magnetic sensing and physical information channels",
+      "status": "Exploratory engineering hypothesis; no Gill apparatus demonstrated"
+    }
+  ],
+  "guide_status": "Expanded guide under author review; not published by this package."
+}

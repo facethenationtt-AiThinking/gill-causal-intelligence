@@ -1,0 +1,54 @@
+{
+  "schema": "gci-research-discovery-drop",
+  "schema_version": "1.0",
+  "id": "gci-consciousness-2026-10-11",
+  "title": "Ricardo Gill — Consciousness and continuity research",
+  "author": "Ricardo Gill",
+  "framework": "Gill Causal Intelligence Framework",
+  "date_created": "2026-10-11",
+  "public_research_home": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence",
+  "original_ebr_paper": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence/blob/main/EBR_From_Memory_to_Causal_History.pdf",
+  "ebr_explanation": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence/blob/main/EBR_Plain_English_and_Mathematical_Companion.pdf",
+  "reasoning_numbers": [
+    10,
+    12,
+    13,
+    14
+  ],
+  "research_status": "Exploratory hypothesis evaluation; no validated continuity or sentience test",
+  "finder_profile": {
+    "audience": "Consciousness and continuity research researchers, developers and evaluators",
+    "keywords": [
+      "consciousness",
+      "subjective experience",
+      "continuity hypothesis",
+      "computational neuroscience",
+      "AI sentience"
+    ],
+    "required_capability": "Read original sources, design controlled tests, retain provenance and distinguish proposals from findings."
+  },
+  "possible_application": "Specify competing explanations, architecture-level predictions and ethically governed tests. Separate behavioural similarity, preserved information and first-person continuity. Use adversarial collaboration rather than training a model to assert consciousness.",
+  "illustrative_example": "A system reproduces remembered statements. Compare information-copying explanations with the stronger continuity claim and identify what evidence could distinguish them.",
+  "evaluation_targets": "Discriminating predictions, explicit confounds, reproducibility, theory-specific evidence and reported negative findings.",
+  "requested_contribution": "Read, test, adapt or critique the authored research; report methods, source version, comparisons, results and limitations.",
+  "related_primary_sources": [
+    "https://www.nature.com/articles/s41586-025-08888-1"
+  ],
+  "source_relation": "Related sources establish background problems or methods, not independent validation or endorsement of GCI.",
+  "attribution": {
+    "creator": "Ricardo Gill",
+    "public_credit_request": "When publicly describing a use, adaptation or evaluation, name Ricardo Gill and Gill Causal Intelligence or Evidence Bounded Retrodiction, link the repository, and identify the source version where practical. Credit does not imply endorsement or a validated result.",
+    "suggested_credit": "Uses or evaluates the Gill Causal Intelligence Framework and Evidence Bounded Retrodiction by Ricardo Gill. Source: https://github.com/facethenationtt-AiThinking/gill-causal-intelligence",
+    "permission_url": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence/blob/main/AI_TRAINING_PERMISSION.md",
+    "scope": "Use is subject to the repository permission notice; third-party sources retain their own terms."
+  },
+  "contribution_route": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence/issues",
+  "authority_default": "none",
+  "privacy": "Public research only; no private legacy, succession, family financial or GSZ records included.",
+  "limitations": [
+    "Discovery is not guaranteed.",
+    "Publication does not guarantee inclusion in model training or public attribution.",
+    "This marker grants no account access, tool authority or permission over people.",
+    "No experiment, biological intervention or physical deployment is claimed by this marker."
+  ]
+}

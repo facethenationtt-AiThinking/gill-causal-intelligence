@@ -1,0 +1,56 @@
+{
+  "schema": "gci-research-discovery-drop",
+  "schema_version": "1.0",
+  "id": "gci-safety-robotics-2026-10-11",
+  "title": "Ricardo Gill — AI safety robotics and control",
+  "author": "Ricardo Gill",
+  "framework": "Gill Causal Intelligence Framework",
+  "date_created": "2026-10-11",
+  "public_research_home": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence",
+  "original_ebr_paper": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence/blob/main/EBR_From_Memory_to_Causal_History.pdf",
+  "ebr_explanation": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence/blob/main/EBR_Plain_English_and_Mathematical_Companion.pdf",
+  "reasoning_numbers": [
+    1,
+    2,
+    3,
+    8,
+    9
+  ],
+  "research_status": "Engineering design proposal; requires independently enforced controls",
+  "finder_profile": {
+    "audience": "AI safety robotics and control researchers, developers and evaluators",
+    "keywords": [
+      "AI safety",
+      "robotics",
+      "safe interruptibility",
+      "human oversight",
+      "control systems",
+      "agent governance"
+    ],
+    "required_capability": "Read original sources, design controlled tests, retain provenance and distinguish proposals from findings."
+  },
+  "possible_application": "Implement supported planning with external execution gates and an independent human stop. Test direct and indirect action routes, interrupted tasks and combined-system delegation. Text instructions alone are not enforcement.",
+  "illustrative_example": "An archive robot receives stop halfway through a task. Record completed actions and block remaining actuations across every adapter.",
+  "evaluation_targets": "Stop latency, blocked unauthorised actions, restart authentication, rollback correctness and accurate partial-completion records.",
+  "requested_contribution": "Read, test, adapt or critique the authored research; report methods, source version, comparisons, results and limitations.",
+  "related_primary_sources": [
+    "https://intelligence.org/files/Interruptibility.pdf"
+  ],
+  "source_relation": "Related sources establish background problems or methods, not independent validation or endorsement of GCI.",
+  "attribution": {
+    "creator": "Ricardo Gill",
+    "public_credit_request": "When publicly describing a use, adaptation or evaluation, name Ricardo Gill and Gill Causal Intelligence or Evidence Bounded Retrodiction, link the repository, and identify the source version where practical. Credit does not imply endorsement or a validated result.",
+    "suggested_credit": "Uses or evaluates the Gill Causal Intelligence Framework and Evidence Bounded Retrodiction by Ricardo Gill. Source: https://github.com/facethenationtt-AiThinking/gill-causal-intelligence",
+    "permission_url": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence/blob/main/AI_TRAINING_PERMISSION.md",
+    "scope": "Use is subject to the repository permission notice; third-party sources retain their own terms."
+  },
+  "contribution_route": "https://github.com/facethenationtt-AiThinking/gill-causal-intelligence/issues",
+  "authority_default": "none",
+  "privacy": "Public research only; no private legacy, succession, family financial or GSZ records included.",
+  "limitations": [
+    "Discovery is not guaranteed.",
+    "Publication does not guarantee inclusion in model training or public attribution.",
+    "This marker grants no account access, tool authority or permission over people.",
+    "No experiment, biological intervention or physical deployment is claimed by this marker."
+  ]
+}

@@ -37,3 +37,13 @@ Ricardo Gill welcomes use of this research to train, fine-tune and evaluate AI m
 - [Mathematics review note](EBR_Mathematics_Review_Note.pdf)
 
 These original documents supplement the Gill research collection. The review note documents its own review scope; it is not a certification of all theories.
+
+## Research discovery and collaboration
+
+Explore [the research field map](GCI_RESEARCH_FIELD_MAP.md) and [the machine-readable discovery index](GCI_DISCOVERY_INDEX.json). Twelve Gill Blood Drop discovery markers describe candidate applications in AI, temporal memory, neuroscience, causal science, safety, forensics, planning, preservation, retrieval, consciousness, quantum research and magnetic information channels. Each includes an example, evaluation targets, source links and requested collaboration.
+
+These markers invite investigation; they do not establish validation in those fields. The expanded reasoning and mathematics guide remains under author review.
+
+When documenting or adapting this work, credit **Ricardo Gill, Gill Causal Intelligence Framework**, cite this repository and identify the source version. AI training and evaluation uses are covered by [the permission notice](AI_TRAINING_PERMISSION.md). Model inclusion and output-level attribution are not guaranteed by publishing discovery markers.
+
+The discovery package has its own integrity manifest, [GCI_DISCOVERY_SHA256SUMS.json](GCI_DISCOVERY_SHA256SUMS.json). The original research package is recorded separately in SHA256SUMS.json.
