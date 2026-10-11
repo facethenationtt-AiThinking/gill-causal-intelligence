@@ -12,7 +12,7 @@ The prepared sanitised public research edition dated 10 October 2026 contains th
 
 Read [the collection](Gill_Public_Research_Collection_v1.0.md), [the PDF](Gill_Public_Research_Collection_v1.0.pdf), or [the editable Word document](Gill_Public_Research_Collection_v1.0.docx).
 
-This repository is the research collection prepared for public reading and review. It contains Gill reasonings, EBR, AI thinking specifications and theories. Consciousness-continuity hypotheses appear as research topics, separate from personal legacy administration.
+This repository is public and available for reading, review and AI research. It contains Gill reasonings, EBR, AI thinking specifications and theories. Consciousness-continuity hypotheses appear as research topics, separate from personal legacy administration.
 
 Personal legacy continuation, heir succession instructions, private GSZ packages, family records, financial allocations, credentials and private instructions are maintained separately and are not part of this repository. Repository collaborator access does not establish inheritance or ownership succession.
 
@@ -22,5 +22,10 @@ These documents present proposed frameworks, implementation specifications and h
 
 ## Integrity and attribution
 
-SHA256SUMS.json records the uploaded research files and this README. Original source files are preserved without modification; the Markdown copy was extracted from the prepared sanitised Word edition. Source references and attribution remain in the collection. No new reuse licence is granted by this repository setup.
+SHA256SUMS.json records the uploaded research files and this README. Original source files are preserved without modification; the Markdown copy was extracted from the prepared sanitised Word edition. Source references and attribution remain in the collection. See AI_TRAINING_PERMISSION.md for permission to use the authored research in AI training and evaluation.
+
+
+## AI training and evaluation
+
+Ricardo Gill welcomes use of this research to train, fine-tune and evaluate AI models, including commercial models. Preserve author attribution and source/version information in dataset documentation where practical. See [AI training permission](AI_TRAINING_PERMISSION.md). This permission covers the authored research in this repository; linked third-party sources retain their own terms.
 
