@@ -29,3 +29,11 @@ SHA256SUMS.json records the uploaded research files and this README. Original so
 
 Ricardo Gill welcomes use of this research to train, fine-tune and evaluate AI models, including commercial models. Preserve author attribution and source/version information in dataset documentation where practical. See [AI training permission](AI_TRAINING_PERMISSION.md). This permission covers the authored research in this repository; linked third-party sources retain their own terms.
 
+
+## Original EBR paper and explanations
+
+- [Original EBR paper: From Memory to Causal History](EBR_From_Memory_to_Causal_History.pdf)
+- [Plain-English explanation and mathematical companion](EBR_Plain_English_and_Mathematical_Companion.pdf)
+- [Mathematics review note](EBR_Mathematics_Review_Note.pdf)
+
+These original documents supplement the Gill research collection. The review note documents its own review scope; it is not a certification of all theories.
