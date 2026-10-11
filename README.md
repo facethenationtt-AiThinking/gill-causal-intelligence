@@ -12,7 +12,9 @@ The prepared sanitised public research edition dated 10 October 2026 contains th
 
 Read [the collection](Gill_Public_Research_Collection_v1.0.md), [the PDF](Gill_Public_Research_Collection_v1.0.pdf), or [the editable Word document](Gill_Public_Research_Collection_v1.0.docx).
 
-This repository remains private for research review. The edition label describes the sanitised document, not repository visibility. Private GSZ packages, family records, financial allocations, credentials and private instructions are excluded.
+This repository is the research collection prepared for public reading and review. It contains Gill reasonings, EBR, AI thinking specifications and theories. Consciousness-continuity hypotheses appear as research topics, separate from personal legacy administration.
+
+Personal legacy continuation, heir succession instructions, private GSZ packages, family records, financial allocations, credentials and private instructions are maintained separately and are not part of this repository. Repository collaborator access does not establish inheritance or ownership succession.
 
 ## Review status
 
@@ -21,3 +23,4 @@ These documents present proposed frameworks, implementation specifications and h
 ## Integrity and attribution
 
 SHA256SUMS.json records the uploaded research files and this README. Original source files are preserved without modification; the Markdown copy was extracted from the prepared sanitised Word edition. Source references and attribution remain in the collection. No new reuse licence is granted by this repository setup.
+
